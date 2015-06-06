@@ -1,5 +1,5 @@
-function varargout = AddNode(varargin)
-% ADDNODE MATLAB code for AddNode.fig
+function varargout = VChart(varargin)
+% VCHART MATLAB code for AddNode.fig
 %      ADDNODE, by itself, creates a new ADDNODE or raises the existing
 %      singleton*.
 %
